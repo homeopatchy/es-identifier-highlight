@@ -1,5 +1,5 @@
 'atom-text-editor':
-  'alt-r alt-r': 'es-identifier-highlight:renameIdentifier'
-  'shift-alt-left': 'es-identifier-highlight:prevIdentifier'
-  'shift-alt-right': 'es-identifier-highlight:nextIdentifier'
-  'shift-alt-up': 'es-identifier-highlight:jumpToDefinition'
+  'alt-r alt-r': 'ts-identifier-highlight:renameIdentifier'
+  'shift-alt-left': 'ts-identifier-highlight:prevIdentifier'
+  'shift-alt-right': 'ts-identifier-highlight:nextIdentifier'
+  'shift-alt-up': 'ts-identifier-highlight:jumpToDefinition'
