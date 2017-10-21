@@ -1,10 +1,10 @@
 {
-  "name": "es-identifier-highlight",
+  "name": "ts-identifier-highlight",
   "main": "./lib/bootstrap.js",
   "version": "0.4.3",
-  "description": "JS/ES6/JSX identifier highlighting",
+  "description": "TS/JS/ES6/JSX identifier highlighting",
   "keywords": [],
-  "repository": "https://github.com/heilhead/es-identifier-highlight",
+  "repository": "https://github.com/homeopatchy/ts-identifier-highlight",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
